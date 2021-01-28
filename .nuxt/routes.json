@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\home",
+        "_name": "_0a5dcd0e"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\login",
+        "_name": "_41941d1a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\login",
+        "_name": "_41941d1a"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\profile",
+        "_name": "_06280f1a"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\settings",
+        "_name": "_5019e4d2"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\editor",
+        "_name": "_3738ac48"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\IT\\\\@@拉钩学习笔记\\\\part3\\\\03.模块三\\\\realword-nuxtjs\\\\pages\\\\article",
+        "_name": "_261b5b32"
+      }
+    ],
+    "_name": "_1f9af8ce"
+  }
+]
