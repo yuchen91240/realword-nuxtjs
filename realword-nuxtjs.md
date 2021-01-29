@@ -1,3 +1,7 @@
+代码仓库地址：https://gitee.com/yeyuyuchen/part3/tree/master/03.%E6%A8%A1%E5%9D%97%E4%B8%89/realword-nuxtjs
+
+项目部署服务器地址：http://81.69.33.9:3000/
+
 ##### realword-nuxtjs 操作步骤
 
 ###### 一、项目初始化
